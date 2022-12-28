@@ -1,4 +1,4 @@
-package ru.netology.graphs.algorithm;
+package ru.netology.graphs.topologycalculator;
 
 import ru.netology.graphs.graph.Graph;
 

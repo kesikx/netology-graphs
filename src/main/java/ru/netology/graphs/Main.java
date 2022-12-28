@@ -1,6 +1,6 @@
 package ru.netology.graphs;
 
-import ru.netology.graphs.algorithm.VertexReachabilityCalculator;
+import ru.netology.graphs.topologycalculator.VertexReachabilityCalculator;
 import ru.netology.graphs.graph.Edge;
 import ru.netology.graphs.graph.Graph;
 
